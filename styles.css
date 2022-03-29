@@ -1,0 +1,35 @@
+body {
+    background-color:lavenderblush;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1,
+.about {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.about {
+    font-size: 10px;
+    font-weight: 700;
+}
+
+h3 {
+    font-style: italic;
+}
+
+.ingredients li {
+    color: red;
+}
+
+ol li {
+    color: green;
+}
